@@ -7,12 +7,12 @@
 
 - 🌱 I’m currently learning **Nextjs,Tailwind CSS**
 
-- 📫 How to reach me **parthdwivedi2002@gmail.com**
+- 📫 How to reach me **parthprofessionalid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth4git&" alt="parth4git" /></p>
+<
 
