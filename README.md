@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth4git" alt="parth4git" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs,Tailwind CSS**
+- 🌱 I’m a open source contributor , won three open source hackthon -SWOC S3, Hacksquad and Devfest.ai.
 
 - 📫 How to reach me **parthprofessionalid@gmail.com**
 
